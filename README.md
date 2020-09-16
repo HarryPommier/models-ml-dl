@@ -20,6 +20,7 @@
 #### Deep Learning Model
 ##### Autoencoders
 * Linear Autoencoder: PCA
+* Non-Linear Autoencoder: Anomaly Detection 
 * Convolutional Autoencoder: Denoising
 
 
