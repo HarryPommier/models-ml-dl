@@ -16,11 +16,11 @@
 
 ## Current Content
 
-* Machine Learning Models
-* Deep Learning Models
-    * Autoencoders
-        * Linear Autoencoder: PCA
-        * Convolutional Autoencoder: Denoising
+#### Machine Learning Models
+#### Deep Learning Model
+##### Autoencoders
+* Linear Autoencoder: PCA
+* Convolutional Autoencoder: Denoising
 
 
 ## Author
