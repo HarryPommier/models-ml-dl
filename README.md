@@ -17,7 +17,9 @@
 ## Current Content
 
 #### Machine Learning Models
+
 #### Deep Learning Model
+
 ##### Autoencoders
 * Linear Autoencoder: PCA
 * Non-Linear Autoencoder: Anomaly Detection 
