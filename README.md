@@ -34,10 +34,6 @@
 * Github: [@HarryPommier](https://github.com/HarryPommier)
 * LinkedIn: [@harry-pommier-phd-a3911145](https://linkedin.com/in/harry-pommier-phd-a3911145)
 
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/HarryPommier/models-ml-dl/issues). 
-
 ## Show your support
 
 Give a ⭐️ if this project helped you!
