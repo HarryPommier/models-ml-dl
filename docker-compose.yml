@@ -1,0 +1,25 @@
+version: "3.3"
+services:
+        training:
+                image: python:3.8
+                container_name: training
+                tty: true
+                stdin_open: true
+                command: "echo hello training!"
+
+                ports:
+                        - 8888:8888
+                working_dir: /training
+                volumes: 
+                        - ./:/training
+        serve:
+                image: tensorflow/serving
+                container_name: serve
+                command:
+                        - --model_config_file=/models/models.config
+                        - --model_config_file_poll_wait_seconds=60
+                ports:
+                        - 8500:8599
+                        - 8501:8501
+                volumes: 
+                        - ./saved_models/:/models
